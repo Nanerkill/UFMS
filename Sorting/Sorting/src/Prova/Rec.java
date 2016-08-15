@@ -1,4 +1,4 @@
-package meh;
+package Prova;
 
 public class Rec {
 	
